@@ -152,7 +152,7 @@ class ClassLoader implements ClassLoaderInterface
         {
             if (!in_array($path, get_included_files()) && file_exists($path))
             {
-                require $path;
+                require_once $path;
 
                 if($this->_debug)
                 {
