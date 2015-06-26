@@ -19,7 +19,7 @@
   ],
   "require": {
     "php": ">=5.4.0",
-    "oligriffiths/nooku-class-locator": "dev-master"
+    "oligriffiths/nooku-class-locator": "0.0.1"
   },
 
   "minimum-stability":"dev"
