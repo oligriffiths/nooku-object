@@ -19,8 +19,6 @@
   ],
   "require": {
     "php": ">=5.4.0",
-    "ext-curl": "*",
-    "ext-json": "*",
-    "oligriffiths/nooku-class-locator": "dev-master"
+    "oligriffiths/nooku-class-locator": "*"
   }
 }
