@@ -21,6 +21,6 @@
     "php": ">=5.4.0",
     "ext-curl": "*",
     "ext-json": "*",
-    "oligriffiths/nooku-class-locator": "*"
+    "oligriffiths/nooku-class-locator": "dev-master"
   }
 }
