@@ -11,12 +11,16 @@
       "homepage": "https://github.com/nooku"
     }
   ],
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://bitbucket.org/oligriffiths/nooku-class-locator"
+    }
+  ],
   "require": {
     "php": ">=5.4.0",
     "ext-curl": "*",
-    "ext-json": "*"
-  },
-  "autoload": {
-    "files": ["lib/class/loader.php"]
+    "ext-json": "*",
+    "oligriffiths/nooku-class-locator": "*"
   }
 }
