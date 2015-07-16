@@ -20,5 +20,8 @@
   "require": {
     "php": ">=5.4.0",
     "oligriffiths/nooku-class-locator": "0.0.1"
+  },
+  "autoload": {
+    "files": ["autoload.php"]
   }
 }
